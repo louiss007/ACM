@@ -1,0 +1,21 @@
+Plan to finish two questions a week. the speed is vary based on the whole team.
+
+Example updated.
+If you can't finish a problem in one go, please follow the format:
+
+//reminder: write your code and do not delicate to any platform.
+#include <iostream>
+
+using namespace std;
+
+//Not finish yet.
+int main()
+{
+    .....
+    return 0; //reminder: must return int.
+}
+
+Start on 2013-08-22
+
+Week one: A+B Problem
+Week one: Exponentiation
