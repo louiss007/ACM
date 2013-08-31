@@ -1,1 +1,0 @@
-this project designated for self tests and communication skills.
